@@ -3,7 +3,6 @@
     package="com.joseangel.arquitectura">
 
     <uses-permission android:name="android.permission.INTERNET"/>
-//dsdasdasa
     <application
         android:allowBackup="true"
         android:name=".arquitecturaApp"
