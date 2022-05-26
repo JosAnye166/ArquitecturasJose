@@ -3,7 +3,7 @@
     package="com.joseangel.arquitectura">
 
     <uses-permission android:name="android.permission.INTERNET"/>
-//Asjdhakhshd
+//Asjdhakhshdsadasd
     <application
         android:allowBackup="true"
         android:name=".arquitecturaApp"
